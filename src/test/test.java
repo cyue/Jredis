@@ -21,7 +21,7 @@ public class test {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//		sendMail("yuecong@dangdang.com", "test subj", "test cont");
+//		sendMail("admin@YOURMAIL", "test subj", "test cont");
 //		try {
 //			writeToRedis();
 //		} catch (InterruptedException e) {
